@@ -5,6 +5,8 @@
 
 由于查看以及尝试搭建了 [rap2-dolores](https://github.com/thx/rap2-dolores) | [rap2-delos](https://github.com/thx/rap2-delos) 之后发现常规方式有些麻烦 , 所以简单整了一个混合的 docker 本地构建自动化.
 
+目前发现官方的 rap2 问题还存在很多的问题,觉得没有必要经常更新,预计下次更新等官方发布稳定后才再次更新.
+
 # 服务提供商
 
 广发证券互联网金融(二组)
